@@ -132,7 +132,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "18f39175-8f42-4500-be67-009b5f2c875e")
-		(at 210.46 159.42)
+		(at 268.8 112.42)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
@@ -434,7 +434,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "210c3dad-1946-4e91-8606-e1903380accc")
-		(at 206.54 143.42)
+		(at 264.88 96.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW13"
@@ -817,7 +817,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "33478a9c-46bc-43f5-b0b0-2cd657b531e7")
-		(at 135.5 104.19)
+		(at 193.84 57.19)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J1"
@@ -1080,7 +1080,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "36422384-6e86-464e-bb5a-f784c04b6d71")
-		(at 96.11 162.42)
+		(at 154.45 115.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW5"
@@ -1372,7 +1372,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "3697c9b4-a70e-4809-bcff-89ea469d2f18")
-		(at 112.04 124.42)
+		(at 170.38 77.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW3"
@@ -1664,7 +1664,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "38e374bf-ea1b-4388-b665-7b5f427010ab")
-		(at 196.7 162.42)
+		(at 255.04 115.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW12"
@@ -1956,7 +1956,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3c29f9b3-8b36-4c75-b7ec-a9cfc115facd")
-		(at 102.77 139.5)
+		(at 161.11 92.5)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D13"
@@ -2258,7 +2258,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "56f4ffd9-6933-45d9-ae75-e4441ec6a855")
-		(at 134.2 162.42)
+		(at 192.54 115.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW9"
@@ -2550,7 +2550,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "5d30c688-7b24-4e7d-b9bc-3da468ec4c14")
-		(at 187.54 143.42)
+		(at 245.88 96.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW7"
@@ -2842,7 +2842,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "65f9f194-2e19-438b-99a6-ff2b9d1f99c1")
-		(at 158.14 131 180)
+		(at 216.48 84 180)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D16"
@@ -3144,7 +3144,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6630ba27-7b7d-43bd-9750-f925776ec3c0")
-		(at 157.33 144 -90)
+		(at 215.67 97 -90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
@@ -3446,7 +3446,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "737c7296-4951-4668-934d-8f35878f916b")
-		(at 131.12 124.42)
+		(at 189.46 77.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW2"
@@ -3738,7 +3738,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "73d820f9-e349-4247-8198-4c0c48145a24")
-		(at 104.77 121)
+		(at 163.11 74)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D10"
@@ -4040,7 +4040,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "78ac036a-1271-4561-9224-410a28223db5")
-		(at 182.04 124.42)
+		(at 258.46 77.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW6"
@@ -4423,7 +4423,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "825eb9e9-806c-4e41-802c-b14382880399")
-		(at 177.54 162.42)
+		(at 235.88 115.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW11"
@@ -4715,7 +4715,7 @@
 	(footprint "RF_Module:MCU_Seeed_ESP32C3"
 		(layer "F.Cu")
 		(uuid "88bc43f5-07ba-4a33-b99d-115735a722be")
-		(at 154.9 102.9)
+		(at 213.24 55.9)
 		(descr "ESP32C3 Seeed Xiao RF Wifi Shield (https://www.seeedstudio.com/blog/wp-content/uploads/2022/08/Seeed-Studio-XIAO-Series-Package-and-PCB-Design.pdf)")
 		(tags "wifi bluetooth microcontroller")
 		(property "Reference" "U1"
@@ -5291,7 +5291,7 @@
 	(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 		(layer "F.Cu")
 		(uuid "8916da56-0f50-4b53-b62f-199e1cb85794")
-		(at 146.58 145)
+		(at 204.92 98)
 		(descr "Alps rotary encoder, EC11E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 		(tags "rotary encoder")
 		(property "Reference" "SW15"
@@ -5720,7 +5720,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "896f7548-ca02-44d8-b009-a59adb49e02c")
-		(at 171.64 159.08)
+		(at 229.98 112.08)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D12"
@@ -6022,7 +6022,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8fd2a37c-abfd-42c0-9960-1dd6e3cda030")
-		(at 189.77 159)
+		(at 248.11 112)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D15"
@@ -6324,7 +6324,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9dfa4f60-d887-4fe7-a9d6-cd471d1dd73c")
-		(at 198.34 140.04)
+		(at 256.68 93.04)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
@@ -6626,7 +6626,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a2d50d69-82e2-4776-ac8b-afd258af0d88")
-		(at 127.35 159)
+		(at 185.69 112)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
@@ -6928,7 +6928,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "a3a4df97-55f9-4b2a-aa0f-b206c56d4c23")
-		(at 106.12 143.42)
+		(at 164.46 96.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW4"
@@ -7220,7 +7220,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a710247c-ee22-479a-bfdc-adf8bd3a86c9")
-		(at 115.77 81)
+		(at 238.69 93.5)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D11"
@@ -7613,13 +7613,13 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "affe3660-74c9-41c1-82a8-7c4498e69579")
-		(at 154.77 82.5)
+		(at 233.53 74)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D14"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "23d0bcf3-c4c8-458b-a6f0-5005f7ad0562")
+			(uuid "40e32a46-8839-4600-a8f2-d089789dd7e1")
 			(effects
 				(font
 					(size 1 1)
@@ -7630,7 +7630,7 @@
 		(property "Value" "D"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "4112e93a-b66b-4d09-a1e1-925e3b672714")
+			(uuid "dcf65232-af97-42ab-ba8a-b2cf1a7fe2e0")
 			(effects
 				(font
 					(size 1 1)
@@ -7642,7 +7642,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c8a1461a-be20-44c8-8b44-57b37743e340")
+			(uuid "64fcc8e0-b3c2-4431-8373-6b71cf1b05d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7653,7 +7653,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bb9d593c-f1b8-48ba-9bcb-528618ff95a1")
+			(uuid "bdeb061d-fb25-4665-95dc-55052fbfe3df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7915,7 +7915,7 @@
 	(footprint "Package_DIP:DIP-16_W7.62mm"
 		(layer "F.Cu")
 		(uuid "b0500011-6709-4436-87d0-99825937294e")
-		(at 164.04 118 -90)
+		(at 222.38 71 -90)
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U3"
@@ -8122,7 +8122,7 @@
 			)
 		)
 		(point
-			(at 155.15 121.81)
+			(at 213.49 74.81)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "2962b30f-1f53-44c2-903d-9766ca515bee")
@@ -8320,7 +8320,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c04ba60f-bf65-4289-8734-a10fe474ad19")
-		(at 89.77 159.5)
+		(at 148.11 112.5)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
@@ -8622,7 +8622,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c2418b9e-205c-4ab3-80bd-fd401d591140")
-		(at 124.77 121)
+		(at 183.11 74)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D9"
@@ -8924,7 +8924,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "c2479525-0de3-4b80-8251-342d5f1bf0e8")
-		(at 115.12 162.42)
+		(at 173.46 115.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW10"
@@ -9216,7 +9216,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d708fbca-90f6-4159-b9c0-57143900c8d4")
-		(at 186.65 120.42)
+		(at 252.03 74)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
@@ -9518,7 +9518,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "db391311-20f0-44c8-981e-97466c4cd62f")
-		(at 125.12 143.42)
+		(at 183.46 96.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW14"
@@ -9901,7 +9901,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "eba7b817-a8c4-4b03-b1fa-aadeaa29d5dd")
-		(at 123.27 140.5)
+		(at 181.61 93.5)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
@@ -10203,7 +10203,7 @@
 	(footprint "COM-09032:XDCR_COM-09032"
 		(layer "F.Cu")
 		(uuid "ec2292e5-3634-4f2d-b254-757550ff1043")
-		(at 153.83 147.5)
+		(at 212.17 100.5)
 		(property "Reference" "U2"
 			(at -2.625 -15.235 0)
 			(layer "F.SilkS")
@@ -11026,7 +11026,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f216dbb1-5086-4830-b1dd-231f3bd047cc")
-		(at 109.19 159)
+		(at 167.53 112)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
@@ -11328,7 +11328,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "f8fdc405-86e1-48c5-a156-b7adbfc176f6")
-		(at 259.96 138.92)
+		(at 239.46 77.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW8"
@@ -11620,7 +11620,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "fc31fea3-aa70-4a7e-8e12-69de9c516a9e")
-		(at 215.96 162.42)
+		(at 274.3 115.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
@@ -12713,17 +12713,38 @@
 			)
 		)
 	)
+	(gr_line
+		(start 142.5 132)
+		(end 284 132)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "3f4194d5-1b33-42ee-99af-71bc86a58af1")
+	)
+	(gr_rect
+		(start 142.5 44.5)
+		(end 283 131.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "13b2c0e2-0072-48bf-aaf2-9bb723dbe7c8")
+	)
 	(segment
-		(start 146.91 146.92)
-		(end 146.83 147)
+		(start 205.25 99.92)
+		(end 205.17 100)
 		(width 0.25)
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "47caaaca-3e83-4054-b97e-2415e8c107f0")
 	)
 	(segment
-		(start 146.96 146.92)
-		(end 146.91 146.92)
+		(start 205.3 99.92)
+		(end 205.25 99.92)
 		(width 0.25)
 		(layer "F.Cu")
 		(net "GND")
