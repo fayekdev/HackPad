@@ -1,22 +1,20 @@
 from ui.popups.action_editor import ActionEditor
 
 
-class ButtonEditor(ActionEditor):
+class EncoderEditor(ActionEditor):
 
     def __init__(
         self, 
         master, 
         profile_manager, 
         profile, 
-        button
+        direction
 
     ):
         super().__init__(
             master=master, 
             profile_manager=profile_manager, 
             profile=profile, 
-            control_type="button", 
-            control=button
+            control_type="encoder", 
+            control=direction
         )
-
-        

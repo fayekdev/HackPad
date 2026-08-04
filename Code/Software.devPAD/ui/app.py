@@ -18,8 +18,8 @@ class DevPadApp(ctk.CTk):
         self.title(".devPAD")
 
         self.geometry("900x600")
-        self.minsize(900, 600)
-        self.resizable(False, False)
+        self.minsize(600, 300)
+        self.resizable(True, True)
 
         self.configure(
             fg_color="#ECECEC"

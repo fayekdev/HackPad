@@ -4,7 +4,14 @@ from ui.widgets.imagepad import ImagePad
 from ui.widgets.profilebar import ProfileBar
 
 
+from ui.popups.button_editor import ButtonEditor
+from ui.popups.encoder_editor import EncoderEditor
+from ui.popups.joystick_editor import JoystickEditor
+
 class Dashboard(ctk.CTkFrame):
+
+    def control_clicked(self, control):
+        print(f"Clicked: {control}")
 
     def __init__(self, master, backend):
 
@@ -26,7 +33,10 @@ class Dashboard(ctk.CTkFrame):
             pady=(15, 5)
         )
 
-        self.pad = ImagePad(self)
+        self.pad = ImagePad(
+            self,
+            callback=self.control_clicked
+        )
 
         self.pad.pack(
             fill="both",

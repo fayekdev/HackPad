@@ -121,7 +121,7 @@ class HackPadSystemTracker:
         }
         while self.running:
             try:
-                response = requests.get("https://wttr.in", headers=spoof_headers, timeout=(3.5, 5))
+                response = requests.get("https://wttr.in?format=j1", headers=spoof_headers, timeout=(3.5, 5))
                 if response.status_code == 200:
                     data = response.json()
                     conditions_list = data.get('current_condition', [])

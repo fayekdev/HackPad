@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "title": "Finish PCB",
+      "completed": false
+    },
+    {
+      "title": "Flash ESP32",
+      "completed": true
+    }
+  ]
+}
