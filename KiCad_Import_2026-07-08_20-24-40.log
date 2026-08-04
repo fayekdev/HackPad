@@ -1,0 +1,393 @@
+[2026-07-08 20:24:40,273][INFO]:  Importing File: F:/OneDrive/Documents/KiCad/10.0/projects/HackPad/HackPad.kicad_pcb
+[2026-07-08 20:24:40,285][INFO]:  Adding companion document: F:/OneDrive/Documents/KiCad/10.0/projects/HackPad/HackPad.kicad_sch
+[2026-07-08 20:24:40,297][INFO]:  Processing documents list
+[2026-07-08 20:24:40,297][INFO]:  Reading document: HackPad.kicad_pcb
+[2026-07-08 20:24:40,309][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'covering' of parentNode 'setup' at line: 83
+[2026-07-08 20:24:40,309][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'plugging' of parentNode 'setup' at line: 87
+[2026-07-08 20:24:40,309][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'capping' of parentNode 'setup' at line: 91
+[2026-07-08 20:24:40,309][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'filling' of parentNode 'setup' at line: 92
+[2026-07-08 20:24:40,310][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 185
+[2026-07-08 20:24:40,310][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 310
+[2026-07-08 20:24:40,310][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 572
+[2026-07-08 20:24:40,310][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 853
+[2026-07-08 20:24:40,310][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 952
+[2026-07-08 20:24:40,311][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 1195
+[2026-07-08 20:24:40,311][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 1286
+[2026-07-08 20:24:40,311][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 1573
+[2026-07-08 20:24:40,311][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 1860
+[2026-07-08 20:24:40,311][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 2181
+[2026-07-08 20:24:40,311][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 2437
+[2026-07-08 20:24:40,311][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 2528
+[2026-07-08 20:24:40,311][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 2809
+[2026-07-08 20:24:40,311][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 2900
+[2026-07-08 20:24:40,311][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 3222
+[2026-07-08 20:24:40,312][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 3520
+[2026-07-08 20:24:40,312][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 3782
+[2026-07-08 20:24:40,312][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 4103
+[2026-07-08 20:24:40,312][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 4365
+[2026-07-08 20:24:40,312][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 4652
+[2026-07-08 20:24:40,312][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 4940
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 5509
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 5966
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 6262
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 6558
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 6854
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 7116
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 7437
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 7733
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 8003
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'point' of parentNode 'footprint' at line: 8137
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 8426
+[2026-07-08 20:24:40,313][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 8722
+[2026-07-08 20:24:40,315][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 8984
+[2026-07-08 20:24:40,315][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 9305
+[2026-07-08 20:24:40,315][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 9567
+[2026-07-08 20:24:40,315][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 9888
+[2026-07-08 20:24:40,315][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 10300
+[2026-07-08 20:24:40,315][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 10973
+[2026-07-08 20:24:40,315][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 11098
+[2026-07-08 20:24:40,316][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 11360
+[2026-07-08 20:24:40,316][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 11647
+[2026-07-08 20:24:40,324][INFO]:  Converting document: 'F:/OneDrive/Documents/KiCad/10.0/projects/HackPad/HackPad.kicad_pcb'
+[2026-07-08 20:24:46,282][WARN]:  KiCad Footprint Converter: Rounded rectangular pads are not supported. Importing pad from line '477' as regular square pad.
+[2026-07-08 20:24:46,285][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 256 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,286][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 267 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,286][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 279 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,287][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 292 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,288][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 555 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,289][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 924 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,290][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 935 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,291][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 1269 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,291][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 1556 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,292][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 1843 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,292][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 2127 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,293][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 2138 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,293][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 2150 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,295][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 2163 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,295][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 2511 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,296][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 2883 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,297][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 3168 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,297][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 3179 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,297][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 3191 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,298][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 3204 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,299][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 3466 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,299][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 3477 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,300][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 3489 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,300][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 3502 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,301][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 3765 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,302][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 4049 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,302][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 4060 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,303][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 4072 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,303][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 4085 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,303][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 4348 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,305][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 4635 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,306][WARN]:  KiCad Footprint Converter: SMD Aperture pads are not supported. Importing pad from line '5192' as polygon shape.
+[2026-07-08 20:24:46,309][WARN]:  KiCad Footprint Converter: SMD Aperture pads are not supported. Importing pad from line '5200' as polygon shape.
+[2026-07-08 20:24:46,309][WARN]:  KiCad Footprint Converter: SMD Aperture pads are not supported. Importing pad from line '5208' as polygon shape.
+[2026-07-08 20:24:46,309][WARN]:  KiCad Footprint Converter: SMD Aperture pads are not supported. Importing pad from line '5216' as polygon shape.
+[2026-07-08 20:24:46,313][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 5491 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,314][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 5912 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,314][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 5923 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,315][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 5935 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,315][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 5948 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,316][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 6208 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,316][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 6219 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,316][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 6231 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,317][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 6244 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,318][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 6504 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,318][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 6515 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,319][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 6527 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,319][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 6540 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,320][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 6800 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,321][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 6811 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,321][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 6823 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,322][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 6836 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,323][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 7099 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,323][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 7383 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,324][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 7394 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,324][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 7406 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,325][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 7419 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,326][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 7679 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,327][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 7690 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,327][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 7702 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,328][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 7715 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,329][WARN]:  KiCad Footprint Converter: Rounded rectangular pads are not supported. Importing pad from line '8143' as regular square pad.
+[2026-07-08 20:24:46,330][INFO]:  KiCad Pcb Converter: Attribute name 'Datasheet' from line 7964 need to be changed to 'DATASHEET'
+[2026-07-08 20:24:46,331][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 7975 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,332][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 7986 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,333][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 8372 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,334][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 8383 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,334][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 8395 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,335][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 8408 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,337][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 8668 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,338][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 8679 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,338][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 8691 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,339][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 8704 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,340][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 8967 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,341][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 9251 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,342][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 9262 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,342][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 9274 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,342][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 9287 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,343][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 9550 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,344][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 9834 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,344][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 9845 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,345][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 9857 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,345][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 9870 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,348][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 10129 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,352][INFO]:  KiCad Pcb Converter: Attribute name 'Package' from line 10166 need to be changed to 'PACKAGE'
+[2026-07-08 20:24:46,353][INFO]:  KiCad Pcb Converter: Attribute name 'Price' from line 10179 need to be changed to 'PRICE'
+[2026-07-08 20:24:46,354][INFO]:  KiCad Pcb Converter: Attribute name 'Check_prices' from line 10192 need to be changed to 'CHECK_PRICES'
+[2026-07-08 20:24:46,356][INFO]:  KiCad Pcb Converter: Attribute name 'SnapEDA_Link' from line 10231 need to be changed to 'SNAPEDA_LINK'
+[2026-07-08 20:24:46,358][INFO]:  KiCad Pcb Converter: Attribute name 'Purchase-URL' from line 10257 need to be changed to 'PURCHASE-URL'
+[2026-07-08 20:24:46,359][INFO]:  KiCad Pcb Converter: Attribute name 'Availability' from line 10270 need to be changed to 'AVAILABILITY'
+[2026-07-08 20:24:46,362][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 11044 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,362][INFO]:  KiCad Pcb Converter: Attribute name 'KiLib_Generator' from line 11055 need to be changed to 'KILIB_GENERATOR'
+[2026-07-08 20:24:46,362][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Device' from line 11067 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,363][INFO]:  KiCad Pcb Converter: Attribute name 'Sim.Pins' from line 11080 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,363][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 11343 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,365][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 11630 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,441][INFO]:  Finished processing document: 'F:/OneDrive/Documents/KiCad/10.0/projects/HackPad/HackPad.kicad_pcb'
+[2026-07-08 20:24:46,441][INFO]:  Reading document: HackPad.kicad_sch
+[2026-07-08 20:24:46,441][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 15
+[2026-07-08 20:24:46,441][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'duplicate_pin_numbers_are_jumpers' of parentNode 'symbol' at line: 16
+[2026-07-08 20:24:46,441][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 404
+[2026-07-08 20:24:46,441][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'duplicate_pin_numbers_are_jumpers' of parentNode 'symbol' at line: 405
+[2026-07-08 20:24:46,441][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 849
+[2026-07-08 20:24:46,441][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'duplicate_pin_numbers_are_jumpers' of parentNode 'symbol' at line: 850
+[2026-07-08 20:24:46,443][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1115
+[2026-07-08 20:24:46,443][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'duplicate_pin_numbers_are_jumpers' of parentNode 'symbol' at line: 1116
+[2026-07-08 20:24:46,443][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1300
+[2026-07-08 20:24:46,443][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'duplicate_pin_numbers_are_jumpers' of parentNode 'symbol' at line: 1301
+[2026-07-08 20:24:46,443][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1725
+[2026-07-08 20:24:46,443][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'duplicate_pin_numbers_are_jumpers' of parentNode 'symbol' at line: 1726
+[2026-07-08 20:24:46,443][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1882
+[2026-07-08 20:24:46,443][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'duplicate_pin_numbers_are_jumpers' of parentNode 'symbol' at line: 1883
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 3929
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 3933
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 4010
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 4014
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 4090
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 4094
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 4346
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 4350
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 4426
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 4430
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 4530
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 4534
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 4634
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 4638
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 4714
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 4718
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 4818
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 4822
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 4922
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 4926
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5026
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5030
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5106
+[2026-07-08 20:24:46,444][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5110
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5222
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5226
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5326
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5330
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5406
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5410
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5530
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5534
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5610
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5614
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5714
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5718
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5794
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5798
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5874
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5878
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 5962
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 5966
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 6042
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 6046
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 6122
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 6126
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 6226
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 6230
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 6331
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 6335
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 6411
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 6415
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 6513
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 6517
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 6608
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 6612
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 6713
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 6717
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 6817
+[2026-07-08 20:24:46,445][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 6821
+[2026-07-08 20:24:46,446][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 6921
+[2026-07-08 20:24:46,446][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 6925
+[2026-07-08 20:24:46,446][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 7026
+[2026-07-08 20:24:46,446][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 7030
+[2026-07-08 20:24:46,446][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 7106
+[2026-07-08 20:24:46,446][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 7110
+[2026-07-08 20:24:46,446][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 7210
+[2026-07-08 20:24:46,446][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 7214
+[2026-07-08 20:24:46,446][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 7290
+[2026-07-08 20:24:46,446][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 7294
+[2026-07-08 20:24:46,446][INFO]:  Converting document: 'F:/OneDrive/Documents/KiCad/10.0/projects/HackPad/HackPad.kicad_sch'
+[2026-07-08 20:24:46,447][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: '74xx:74HC595'
+[2026-07-08 20:24:46,449][INFO]:  KiCad Symbol Converter: Generating DeviceSet: '74HC595'
+[2026-07-08 20:24:46,455][INFO]:  KiCad Symbol Converter: Generating DeviceSet: '74HC595' finished successfully
+[2026-07-08 20:24:46,455][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: '74xx:74HC595' finished successfully
+[2026-07-08 20:24:46,455][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'COM-09032:COM-09032'
+[2026-07-08 20:24:46,455][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'COM-09032'
+[2026-07-08 20:24:46,455][INFO]:  KiCad Symbol Converter: Symbol pin 'SHIELD' at line '709' was renamed to 'SHIELD@1' because of name duplication
+[2026-07-08 20:24:46,456][INFO]:  KiCad Symbol Converter: Symbol pin 'SHIELD' at line '727' was renamed to 'SHIELD@2' because of name duplication
+[2026-07-08 20:24:46,456][INFO]:  KiCad Symbol Converter: Symbol pin 'SHIELD' at line '746' was renamed to 'SHIELD@3' because of name duplication
+[2026-07-08 20:24:46,456][INFO]:  KiCad Symbol Converter: Symbol pin 'SHIELD' at line '765' was renamed to 'SHIELD@4' because of name duplication
+[2026-07-08 20:24:46,457][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'COM-09032' finished successfully
+[2026-07-08 20:24:46,457][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'COM-09032:COM-09032' finished successfully
+[2026-07-08 20:24:46,457][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Connector:Conn_01x04_Pin'
+[2026-07-08 20:24:46,457][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'Conn_01x04_Pin'
+[2026-07-08 20:24:46,458][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'CONN_01X04_PIN' finished successfully
+[2026-07-08 20:24:46,458][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Connector:Conn_01x04_Pin' finished successfully
+[2026-07-08 20:24:46,458][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Device:D'
+[2026-07-08 20:24:46,458][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'D'
+[2026-07-08 20:24:46,459][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'D' finished successfully
+[2026-07-08 20:24:46,459][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Device:D' finished successfully
+[2026-07-08 20:24:46,459][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Device:RotaryEncoder_Switch_MP'
+[2026-07-08 20:24:46,459][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'RotaryEncoder_Switch_MP'
+[2026-07-08 20:24:46,460][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'ROTARYENCODER_SWITCH_MP' finished successfully
+[2026-07-08 20:24:46,460][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Device:RotaryEncoder_Switch_MP' finished successfully
+[2026-07-08 20:24:46,460][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Switch:SW_Push'
+[2026-07-08 20:24:46,460][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'SW_Push'
+[2026-07-08 20:24:46,461][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'SW_PUSH' finished successfully
+[2026-07-08 20:24:46,461][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Switch:SW_Push' finished successfully
+[2026-07-08 20:24:46,461][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'XIAO_RP2040:MOUDLE-SEEEDUINO-XIAO'
+[2026-07-08 20:24:46,461][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'MOUDLE-SEEEDUINO-XIAO'
+[2026-07-08 20:24:46,461][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'MOUDLE-SEEEDUINO-XIAO' finished successfully
+[2026-07-08 20:24:46,461][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'XIAO_RP2040:MOUDLE-SEEEDUINO-XIAO' finished successfully
+[2026-07-08 20:24:46,461][INFO]:  Converted 7 schematic symbols
+[2026-07-08 20:24:46,487][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 3958 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,487][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 3980 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,489][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 4038 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,489][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 4060 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,492][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 4118 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,492][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 4141 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,493][INFO]:  KiCad Schematic Converter: Attribute name 'Package' from line 4177 need to be changed to 'PACKAGE'
+[2026-07-08 20:24:46,493][INFO]:  KiCad Schematic Converter: Attribute name 'Price' from line 4189 need to be changed to 'PRICE'
+[2026-07-08 20:24:46,493][INFO]:  KiCad Schematic Converter: Attribute name 'Check_prices' from line 4201 need to be changed to 'CHECK_PRICES'
+[2026-07-08 20:24:46,493][INFO]:  KiCad Schematic Converter: Attribute name 'SnapEDA_Link' from line 4237 need to be changed to 'SNAPEDA_LINK'
+[2026-07-08 20:24:46,493][INFO]:  KiCad Schematic Converter: Attribute name 'Purchase-URL' from line 4261 need to be changed to 'PURCHASE-URL'
+[2026-07-08 20:24:46,493][INFO]:  KiCad Schematic Converter: Attribute name 'Availability' from line 4273 need to be changed to 'AVAILABILITY'
+[2026-07-08 20:24:46,494][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 4374 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,494][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 4396 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,495][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 4456 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,495][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 4478 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,495][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 4489 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,495][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 4500 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,496][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 4560 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,496][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 4582 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,496][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 4593 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,496][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 4604 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,496][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 4662 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,496][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 4684 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,497][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 4744 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,497][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 4766 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,497][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 4777 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,498][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 4788 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,499][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 4848 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,499][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 4870 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,499][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 4881 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,499][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 4892 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,500][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 4952 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,500][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 4974 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,500][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 4985 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,500][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 4996 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,500][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5054 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,501][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 5076 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,501][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5134 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,503][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5252 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,503][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 5274 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,503][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 5285 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,503][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 5296 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,504][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5354 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,504][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 5376 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,505][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5436 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,505][INFO]:  KiCad Schematic Converter: Attribute name 'Datasheet' from line 5447 need to be changed to 'DATASHEET'
+[2026-07-08 20:24:46,505][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 5458 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,507][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5558 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,507][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 5580 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,507][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5640 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,507][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 5662 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,507][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 5673 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,507][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 5684 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,509][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5742 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,510][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 5764 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,510][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5822 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,510][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 5844 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,511][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5904 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,511][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 5926 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,512][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 5990 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,512][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6012 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,513][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 6070 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,513][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6092 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,515][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 6152 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,515][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6174 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,515][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 6185 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,515][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 6196 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,516][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 6257 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,516][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6279 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,516][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 6290 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,516][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 6301 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,518][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 6359 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,518][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6381 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,519][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 6439 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,519][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6461 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,519][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 6472 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,519][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 6483 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,520][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 6544 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,520][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6566 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,521][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 6639 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,521][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6661 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,521][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 6672 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,521][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 6683 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,522][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 6743 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,522][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6765 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,522][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 6776 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,522][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 6787 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,523][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 6847 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,523][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6869 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,523][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 6880 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,523][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 6891 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,524][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 6952 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,524][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 6974 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,524][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 6985 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,524][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 6996 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,526][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 7054 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,526][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 7076 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,527][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 7136 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,527][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 7158 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,527][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 7169 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,527][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 7180 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,528][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 7238 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,528][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 7260 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,530][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 7320 need to be changed to 'FOOTPRINT'
+[2026-07-08 20:24:46,530][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 7342 need to be changed to 'DESCRIPTION'
+[2026-07-08 20:24:46,530][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Device' from line 7353 need to be changed to 'SIM_DEVICE'
+[2026-07-08 20:24:46,530][INFO]:  KiCad Schematic Converter: Attribute name 'Sim.Pins' from line 7364 need to be changed to 'SIM_PINS'
+[2026-07-08 20:24:46,530][INFO]:  Finished processing document: 'F:/OneDrive/Documents/KiCad/10.0/projects/HackPad/HackPad.kicad_sch'
+[2026-07-08 20:24:46,530][INFO]:  Processing documents list finished
+[2026-07-08 20:24:46,531][INFO]:  KiCad Importer Post Processor: Postprocessing imported design
+[2026-07-08 20:24:46,531][INFO]:  KiCad Importer Post Processor: Processing board components
+[2026-07-08 20:24:46,531][INFO]:  KiCad Importer Post Processor: Package 'D_DO-35_SOD27_P7.62MM_HORIZONTAL' was moved from library 'Diode_THT' to 'Device' as 'DIODE_THT_D_DO-35_SOD27_P7.62MM_HORIZONTAL'
+[2026-07-08 20:24:46,532][INFO]:  KiCad Importer Post Processor: Package 'SW_CHERRY_MX_1.00U_PCB' was moved from library 'Button_Switch_Keyboard' to 'Switch' as 'BUTTON_SWITCH_KEYBOARD_SW_CHERRY_MX_1.00U_PCB'
+[2026-07-08 20:24:46,532][INFO]:  KiCad Importer Post Processor: Package 'PINHEADER_1X04_P2.54MM_VERTICAL' was moved from library 'Connector_PinHeader_2.54mm' to 'Connector' as 'CONNECTOR_PINHEADER_2.54MM_PINHEADER_1X04_P2.54MM_VERTICAL'
+[2026-07-08 20:24:46,536][INFO]:  KiCad Importer Post Processor: Package 'MCU_SEEED_ESP32C3' was moved from library 'RF_Module' to 'XIAO_RP2040' as 'RF_MODULE_MCU_SEEED_ESP32C3'
+[2026-07-08 20:24:46,536][INFO]:  KiCad Importer Post Processor: Package 'ROTARYENCODER_ALPS_EC11E-SWITCH_VERTICAL_H20MM' was moved from library 'Rotary_Encoder' to 'Device' as 'ROTARY_ENCODER_ROTARYENCODER_ALPS_EC11E-SWITCH_VERTICAL_H20MM'
+[2026-07-08 20:24:46,539][INFO]:  KiCad Importer Post Processor: Package 'DIP-16_W7.62MM' was moved from library 'Package_DIP' to '74xx' as 'PACKAGE_DIP_DIP-16_W7.62MM'
+[2026-07-08 20:24:46,542][INFO]:  KiCad Importer Post Processor: Processing board components finished
+[2026-07-08 20:24:46,542][INFO]:  KiCad Importer Post Processor: Processing board nets
+[2026-07-08 20:24:46,546][INFO]:  KiCad Importer Post Processor: Processing board nets finished
+[2026-07-08 20:24:46,546][INFO]:  KiCad Importer Post Processor: Processing net classes
+[2026-07-08 20:24:46,547][INFO]:  KiCad Importer Post Processor: Processing net classes finished
+[2026-07-08 20:24:46,548][INFO]:  KiCad Importer Post Processor: Postprocessing imported design finished
+[2026-07-08 20:24:46,632][INFO]:  Import finished

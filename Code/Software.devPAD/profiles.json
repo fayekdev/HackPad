@@ -1,0 +1,67 @@
+{
+  "AutoCAD": {
+    "buttons": {
+      "0": "LINE\n",
+      "1": "CIRCLE\n",
+      "2": "ARC\n",
+      "3": "RECTANG\n",
+      "4": "ERASE\n",
+      "5": "MOVE\n",
+      "6": "COPY\n",
+      "7": "SCALE\n",
+      "8": "TRIM\n",
+      "9": "EXTEND\n",
+      "10": "FILLET\n",
+      "11": "OFFSET\n",
+      "12": "DIMLINEAR\n",
+      "13": "MATCHPROP\n",
+      "14": "ctrl+z",
+      "15": "ctrl+s"
+    },
+    "encoder": {
+      "clockwise": "zoom_in",
+      "counter_clockwise": "zoom_out"
+    }
+  },
+  "Fusion360": {
+    "buttons": {
+      "0": "l",
+      "1": "c",
+      "2": "a",
+      "3": "r",
+      "4": "e",
+      "5": "m",
+      "6": "ctrl+c",
+      "7": "s",
+      "8": "t",
+      "9": "ext",
+      "10": "f",
+      "11": "o",
+      "12": "d",
+      "13": "i",
+      "14": "ctrl+z",
+      "15": "ctrl+s"
+    },
+    "encoder": {
+      "clockwise": "scroll_up",
+      "counter_clockwise": "scroll_down"
+    }
+  },
+  "Default": {
+    "buttons": {
+      "0": "Hello World!",
+      "1": "ctrl+c",
+      "2": "ctrl+v"
+    },
+    "encoder": {
+      "clockwise": "scroll_up",
+      "counter_clockwise": "scroll_down"
+    }
+  },
+  "VScode":{
+    "button":{
+      "0": "ctrl+c",
+      "1": "ctrl+v"
+    }
+  }
+}
