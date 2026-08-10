@@ -16,7 +16,8 @@ class ButtonEditor(ActionEditor):
             profile_manager=profile_manager, 
             profile=profile, 
             control_type="button", 
-            control=button
+            control=button,
+            title=f"Edit {button}"
         )
 
         

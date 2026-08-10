@@ -1,6 +1,6 @@
 import customtkinter as ctk
 
-from backend.task_manager import Taskmanager
+from backend.task_manager import TaskManager
 
 class TasksPopup(ctk.CTkToplevel):
 
@@ -8,7 +8,7 @@ class TasksPopup(ctk.CTkToplevel):
 
         super().__init__(master)
 
-        self.task_manager = Taskmanager()
+        self.task_manager = TaskManager()
         self.title("Tasks")
 
         self.geometry("500x600")

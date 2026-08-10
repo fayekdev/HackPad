@@ -2,12 +2,7 @@ import customtkinter as ctk
 
 
 class ProfileBar(ctk.CTkFrame):
-    """
-    Horizontal profile selector shown at the top of the window.
-
-    The backend remains the source of truth. This widget simply displays the
-    available profiles and highlights the currently active one.
-    """
+    
 
     ACTIVE_COLOR = "#222222"
     ACTIVE_TEXT = "#FFFFFF"
@@ -17,16 +12,15 @@ class ProfileBar(ctk.CTkFrame):
 
     BORDER = "#222222"
 
-    def __init__(self, master, backend, callback=None):
+    def __init__(self, master, profile_manager, callback=None,):
         super().__init__(
             master,
             fg_color="transparent",
             height=48
         )
-
-        self.backend = backend
+        
         self.callback = callback
-
+        self.profile_manager = profile_manager
         self.buttons = {}
 
         self.pack_propagate(False)
@@ -48,9 +42,8 @@ class ProfileBar(ctk.CTkFrame):
 
     def refresh(self):
 
-        tracker = self.backend.tracker
-
-        profiles = list(tracker.profiles.keys())
+        
+        profiles = self.profile_manager.get_profile_names()
 
         if set(profiles) != set(self.buttons.keys()):
 
@@ -94,7 +87,7 @@ class ProfileBar(ctk.CTkFrame):
 
                 self.buttons[profile] = btn
 
-        self.highlight(tracker.current_profile_name)
+        self.highlight(self.profile_manager.get_active_profile())
 
         self.after(
             250,
@@ -131,7 +124,7 @@ class ProfileBar(ctk.CTkFrame):
 
     def select(self, profile):
 
-        self.backend.tracker.current_profile_name = profile
+        self.profile_manager.set_active_profile(profile)
 
         self.highlight(profile)
 

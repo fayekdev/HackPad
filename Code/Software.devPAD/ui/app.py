@@ -1,8 +1,8 @@
 import customtkinter as ctk
 
-from backend import TrackerService
+from backend.tracker import TrackerService
 from ui.dashboard import Dashboard
-
+from backend.profile_manager import ProfileManager
 
 ctk.set_appearance_mode("light")
 
@@ -25,13 +25,14 @@ class DevPadApp(ctk.CTk):
             fg_color="#ECECEC"
         )
 
-        self.backend = TrackerService()
+        self.tracker = TrackerService()
+        self.profile_manager = ProfileManager()
+        self.tracker.start()
 
-        self.backend.start()
-
-        Dashboard(
+        self.dashboard = Dashboard(
             self,
-            self.backend
+            self.profile_manager
+
         ).pack(
             fill="both",
             expand=True
@@ -44,6 +45,6 @@ class DevPadApp(ctk.CTk):
 
     def close(self):
 
-        self.backend.stop()
+        self.tracker.stop()
 
         self.destroy()

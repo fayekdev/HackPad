@@ -10,17 +10,8 @@
                         "type": "shortcut",
                         "keys": [
                             "ctrl",
-                            "shift",
-                            "esc"
+                            "c"
                         ]
-                    }
-                },
-                "key_5": {
-                    "name": "",
-                    "enabled": true,
-                    "action": {
-                        "type": "shortcut",
-                        "keys": []
                     }
                 },
                 "key_2": {
@@ -28,15 +19,29 @@
                     "enabled": true,
                     "action": {
                         "type": "shortcut",
-                        "keys": []
+                        "keys": [
+                            "ctrl",
+                            "x"
+                        ]
                     }
                 },
-                "key_3": {
+                "key_10": {
                     "name": "",
                     "enabled": true,
                     "action": {
                         "type": "shortcut",
-                        "keys": []
+                        "keys": [
+                            "alt",
+                            "tab"
+                        ]
+                    }
+                },
+                "key_8": {
+                    "name": "",
+                    "enabled": true,
+                    "action": {
+                        "type": "website",
+                        "url": "https://github.com"
                     }
                 },
                 "key_4": {
@@ -54,128 +59,50 @@
                         "type": "shortcut",
                         "keys": []
                     }
-                },
-                "key_7": {
-                    "name": "",
-                    "enabled": true,
-                    "action": {
-                        "type": "shortcut",
-                        "keys": []
-                    }
-                },
-                "key_8": {
-                    "name": "",
-                    "enabled": true,
-                    "action": {
-                        "type": "shortcut",
-                        "keys": []
-                    }
-                },
-                "key_9": {
-                    "name": "",
-                    "enabled": true,
-                    "action": {
-                        "type": "shortcut",
-                        "keys": []
-                    }
-                },
-                "key_10": {
-                    "name": "",
-                    "enabled": true,
-                    "action": {
-                        "type": "shortcut",
-                        "keys": []
-                    }
-                },
-                "key_11": {
-                    "name": "",
-                    "enabled": true,
-                    "action": {
-                        "type": "shortcut",
-                        "keys": []
-                    }
-                },
-                "key_12": {
-                    "name": "",
-                    "enabled": true,
-                    "action": {
-                        "type": "shortcut",
-                        "keys": []
-                    }
-                },
-                "key_13": {
-                    "name": "",
-                    "enabled": true,
-                    "action": {
-                        "type": "shortcut",
-                        "keys": []
-                    }
-                },
-                "key_14": {
-                    "name": "",
-                    "enabled": true,
-                    "action": {
-                        "type": "shortcut",
-                        "keys": []
-                    }
-                }
-            },
-            "encoder": {
-                "clockwise": {
-                    "type": "shortcut",
-                    "keys": [
-                        "volume up"
-                    ]
-                },
-                "counter_clockwise": {
-                    "type": "shortcut",
-                    "keys": [
-                        "volume down"
-                    ]
-                },
-                "press": {
-                    "type": "shortcut",
-                    "keys": [
-                        "mute"
-                    ]
-                },
-                "key_1": {
-                    "type": "shortcut",
-                    "keys": []
                 }
             },
             "joystick": {
                 "up": {
                     "type": "shortcut",
-                    "keys": [
-                        "up"
-                    ]
+                    "keys": []
                 },
                 "down": {
                     "type": "shortcut",
-                    "keys": [
-                        "down"
-                    ]
+                    "keys": []
                 },
                 "left": {
                     "type": "shortcut",
-                    "keys": [
-                        "left"
-                    ]
+                    "keys": []
                 },
                 "right": {
                     "type": "shortcut",
-                    "keys": [
-                        "right"
-                    ]
+                    "keys": []
                 },
                 "press": {
                     "type": "shortcut",
-                    "keys": [
-                        "enter"
-                    ]
+                    "keys": []
                 }
-            }
+            },
+            "encoder": {
+                "clockwise": {
+                    "type": "shortcut",
+                    "keys": []
+                },
+                "counter_clockwise": {
+                    "type": "shortcut",
+                    "keys": []
+                },
+                "press": {
+                    "type": "shortcut",
+                    "keys": []
+                }
+            },
+            "todos": [
+                "",
+                "",
+                "",
+                ""
+            ]
         }
     }
 }

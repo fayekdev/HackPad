@@ -7,24 +7,63 @@ from ui.widgets.profilebar import ProfileBar
 from ui.popups.button_editor import ButtonEditor
 from ui.popups.encoder_editor import EncoderEditor
 from ui.popups.joystick_editor import JoystickEditor
-
+from ui.popups.tasks_popup import TasksPopup
 class Dashboard(ctk.CTkFrame):
 
     def control_clicked(self, control):
-        print(f"Clicked: {control}")
 
-    def __init__(self, master, backend):
+        profile = self.profile_manager.get_active_profile()
+
+        print(f"Control Clicked: {control}")
+        print(f"Active Profile: {profile}")
+
+        if control.startswith("key_"):
+
+            ButtonEditor(
+                self, 
+                self.profile_manager, 
+                profile, 
+                control
+            )
+
+        elif control == "encoder":
+
+            EncoderEditor(
+                self, 
+                self.profile_manager, 
+                profile, 
+                
+            )
+
+        elif control == "joystick":
+
+            JoystickEditor(
+                self, 
+                self.profile_manager, 
+                profile, 
+                
+            )
+
+        elif control == "display":
+
+            TasksPopup(
+                self, 
+            )
+        else :
+            print(f"Unknown Control: {control}")
+
+    def __init__(self, master, profile_manager):
 
         super().__init__(
             master,
-            fg_color="#ECECEC"
+            fg_color="#FFFFFF"
         )
 
-        self.backend = backend
+        self.profile_manager = profile_manager
 
         self.profilebar = ProfileBar(
             self,
-            backend
+            self.profile_manager
         )
 
         self.profilebar.pack(

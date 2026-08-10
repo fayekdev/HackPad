@@ -63,8 +63,32 @@ class ProfileManager:
 
     def save(self):
 
+        temp_file = self.file.with_suffix(".tmp")
+
+        try:
+
+            with open(
+                temp_file, 
+                "w", 
+                encoding="utf8"
+            ) as f:
+                json.dump(
+                    self.data, 
+                    f, 
+                    indent=4
+                )
+            temp_file.replace(self.file)
+
+
+        except Exception:
+            if temp_file.exists():
+                temp_file.unlink()
+            raise
+
+
         with open(self.file, "w", encoding="utf8") as f:
             json.dump(
+
                 self.data,
                 f,
                 indent=4
@@ -158,7 +182,19 @@ class ProfileManager:
         return True
 
     def _profile(self, profile):
-         return self.data["profiles"][profile]
+
+        profile_data = self.data["profiles"][profile]
+
+        profile_data.setdefault("buttons", {})
+        profile_data.setdefault("encoder", {})
+        profile_data.setdefault("joystick", {})
+        profile_data.setdefault(
+            "todos",
+            ["", "", "", ""]
+        )
+
+        return profile_data
+
 
     def _default_action(self):
         return dict(DEFAULT_ACTION)

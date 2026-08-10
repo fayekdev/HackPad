@@ -26,7 +26,7 @@ class ImagePad(ctk.CTkFrame):
 
         self.canvas = tk.Canvas(
             self,
-            bg="#ECECEC",
+            bg="#FFFFFF",
             highlightthickness=0
         )
 
@@ -109,12 +109,8 @@ class ImagePad(ctk.CTkFrame):
             event.y
         )
 
-        if control:
-
-            print(control)
-
-            if self.callback:
-                self.callback(control)
+        if control and self.callback:
+            self.callback(control)
 
     # ------------------------------------------------
 
